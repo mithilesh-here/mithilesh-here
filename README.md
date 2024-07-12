@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🔭 I’m currently working on python, machine learning and neural networks.
 <!--
 **mithilesh-here/mithilesh-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
