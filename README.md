@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0c2d063e-6fe2-4b86-b4e5-4729ffa8f2d7)
+
 
 ## Hi there 👋
 🔭 I’m currently working on python, machine learning and neural networks.
