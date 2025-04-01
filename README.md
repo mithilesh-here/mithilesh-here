@@ -1,8 +1,12 @@
-![image](https://github.com/user-attachments/assets/91766494-6bce-471e-969c-a48c8722f32f)
+![image](https://github.com/user-attachments/assets/91766494-6bce-471e-969c-a48c8722f32f
 
 
-## Hi there 👋
-🔭 I’m currently working on python, machine learning and neural networks.
+## Hello Community, 👋
+I am Mithilesh, an Engineering Grad invested in learning tech stack and build ideas to reality. 
+I love solving problems, Mathematics has always been my subject of Interest. I love solving quizes, maths problems for fun.
+🔭 I’m currently working on python, java, machine learning and neural networks.
+I have sufficiently good knowledge of Data Structures, Algorithms, System Design, and Networking. 
+
 Tech Stack:
 
 ![language-python](https://github.com/user-attachments/assets/9bec5cee-31bf-467d-8207-5ce83f6e20e3) ![language-html](https://github.com/user-attachments/assets/b44d9892-3908-4af6-aa25-8c636b385e6c)
